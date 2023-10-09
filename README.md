@@ -1,1 +1,1 @@
-Ejemplo de accesibilidad web con formulario
+Web accesibility example with HTML form
